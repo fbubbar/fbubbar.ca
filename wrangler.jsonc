@@ -1,0 +1,11 @@
+{
+  "name": "fbubbar",
+  "compatibility_date": "2025-12-21",
+  "assets": {
+    "directory": "dist/"
+  },
+  "routes": [{
+    "pattern": "fbubbar.ca",
+    "custom_domain": true
+  }]
+}
